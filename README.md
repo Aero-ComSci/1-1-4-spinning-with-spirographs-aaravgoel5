@@ -18,7 +18,8 @@ whatever the specifyed angle is, moving forward, drawing a filled circle, and th
 
 - Picture of the algorithm
   
-![image](https://github.com/user-attachments/assets/d850eae7-99eb-4b08-8e58-fbd5b79da8cb)
+![image](https://github.com/user-attachments/assets/f54fb163-0d66-4c10-86ac-7c7fb913dee9)
+
 
 
 
