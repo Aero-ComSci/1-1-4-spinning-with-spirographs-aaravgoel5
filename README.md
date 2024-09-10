@@ -1,3 +1,20 @@
+# Code Screenshots 
+
+## My Python Program
+![image](https://github.com/user-attachments/assets/d44a7a3b-ac0f-49af-9a07-f99d09e436fc)
+
+## Clever Notebook Answers
+ - Question 21
+The flowchart represents an algorithm with iterations that continuously draws small filled circles along a path as long as the user input (answer) is "y". Each iteration involves turning the turtle by 
+whatever the specifyed angle is, moving forward, drawing a filled circle, and then repeating the whole process again. The loop does not work when the input is no longer "y". 
+
+- Picture of the algorithm
+  
+![image](https://github.com/user-attachments/assets/d850eae7-99eb-4b08-8e58-fbd5b79da8cb)
+
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SkD24yV8)
 # 1.1.4Spirographs
 
