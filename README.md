@@ -1,11 +1,14 @@
 # Code Screenshots 
 
 ## My Python Program
-- While Loop 
-![image](https://github.com/user-attachments/assets/d44a7a3b-ac0f-49af-9a07-f99d09e436fc)
 
 - For Loop
 ![image](https://github.com/user-attachments/assets/219347ab-938f-4e3d-8986-e189ba14932b)
+
+- While Loop (extra)
+![image](https://github.com/user-attachments/assets/d44a7a3b-ac0f-49af-9a07-f99d09e436fc)
+
+
 
 
 ## Clever Notebook Answers
