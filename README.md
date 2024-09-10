@@ -16,6 +16,14 @@ whatever the specifyed angle is, moving forward, drawing a filled circle, and th
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SkD24yV8)
+
+
+- Undecidable problem and Code
+An undecidable problem is one that has no algorithm which can be made that always leads to a correct yes-or-no answer.
+
+![image](https://github.com/user-attachments/assets/390e255a-704f-489f-8924-2a48af2d5ef4)
+
+
 # 1.1.4Spirographs
 
 *Complete the following.*
