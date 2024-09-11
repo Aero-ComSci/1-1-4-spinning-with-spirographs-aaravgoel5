@@ -12,6 +12,16 @@
 
 
 ## Clever Notebook Answers
+ - Step 17, 18, 19
+   
+   17. ![image](https://github.com/user-attachments/assets/690c8306-da51-4db8-9bfa-5c55cf19bbb8)
+
+   18. ![image](https://github.com/user-attachments/assets/7ab6537c-eb60-4952-83c2-98bc9ccb8d03)
+  
+   19. ![366634301-4f3374dd-9083-46bb-887c-8a33aaabad4d](https://github.com/user-attachments/assets/a358843f-21e5-4f47-bdd9-1e7eed5f951a)
+
+
+
  - Question 21
 The flowchart represents an algorithm with iterations that continuously draws small filled circles along a path as long as the user input (answer) is "y". Each iteration involves turning the turtle by 
 whatever the specifyed angle is, moving forward, drawing a filled circle, and then repeating the whole process again. The loop does not work when the input is no longer "y". 
