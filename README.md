@@ -25,12 +25,13 @@
  - Question 21
 The flowchart represents an algorithm with iterations that continuously draws small filled circles along a path as long as the user input (answer) is "y". Each iteration involves turning the turtle by 
 whatever the specifyed angle is, moving forward, drawing a filled circle, and then repeating the whole process again. The loop does not work when the input is no longer "y". 
-
-- Picture of the algorithm
+  
 ![image](https://github.com/user-attachments/assets/d850eae7-99eb-4b08-8e58-fbd5b79da8cb)
 
 - Tokenizer
-![image](https://github.com/user-attachments/assets/f54fb163-0d66-4c10-86ac-7c7fb913dee9)
+
+![image](https://github.com/user-attachments/assets/6fd64f5e-9f26-4271-b2b7-2dc8df861d83)
+
 
 
 
