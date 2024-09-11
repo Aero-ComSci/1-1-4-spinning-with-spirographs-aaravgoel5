@@ -1,5 +1,13 @@
 # Code Screenshots 
 
+Question 1
+
+Zero-iteration conditions occur when a loop's condition is false from the start which does not allow for any execution or output. Infinite loops happen when a loop's condition is always true which means it runs forever.
+
+Question 2 
+
+![unnamed](https://github.com/user-attachments/assets/5ea24da2-6d9d-4261-acf0-df3fd3becb06)
+
 ## My Python Program
 
 - For Loop
