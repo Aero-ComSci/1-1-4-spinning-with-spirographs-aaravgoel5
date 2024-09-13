@@ -1,3 +1,59 @@
+# Code Screenshots 
+
+Question 1
+
+Zero-iteration conditions occur when a loop's condition is false from the start which does not allow for any execution or output. Infinite loops happen when a loop's condition is always true which means it runs forever.
+
+Question 2 
+
+![unnamed](https://github.com/user-attachments/assets/5ea24da2-6d9d-4261-acf0-df3fd3becb06)
+
+## My Python Program
+
+- For Loop
+![image](https://github.com/user-attachments/assets/219347ab-938f-4e3d-8986-e189ba14932b)
+
+- While Loop (extra)
+![image](https://github.com/user-attachments/assets/d44a7a3b-ac0f-49af-9a07-f99d09e436fc)
+
+
+
+
+## Clever Notebook Answers
+ - Step 17, 18, 19
+   
+   17. ![image](https://github.com/user-attachments/assets/690c8306-da51-4db8-9bfa-5c55cf19bbb8)
+
+   18. ![image](https://github.com/user-attachments/assets/7ab6537c-eb60-4952-83c2-98bc9ccb8d03)
+  
+   19. ![366634301-4f3374dd-9083-46bb-887c-8a33aaabad4d](https://github.com/user-attachments/assets/a358843f-21e5-4f47-bdd9-1e7eed5f951a)
+
+
+
+ - Question 21
+The flowchart represents an algorithm with iterations that continuously draws small filled circles along a path as long as the user input (answer) is "y". Each iteration involves turning the turtle by 
+whatever the specifyed angle is, moving forward, drawing a filled circle, and then repeating the whole process again. The loop does not work when the input is no longer "y". 
+  
+![image](https://github.com/user-attachments/assets/d850eae7-99eb-4b08-8e58-fbd5b79da8cb)
+
+- Tokenizer
+
+![image](https://github.com/user-attachments/assets/6fd64f5e-9f26-4271-b2b7-2dc8df861d83)
+
+
+
+
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SkD24yV8)
+
+
+- Undecidable problem and Code
+An undecidable problem is one that has no algorithm which can be made that always leads to a correct yes-or-no answer.
+
+![image](https://github.com/user-attachments/assets/390e255a-704f-489f-8924-2a48af2d5ef4)
+
+
 # 1.1.4Spirographs
 
 *Complete the following.*
